@@ -1,4 +1,4 @@
-package threads.basics.threadStart;
+package threads.basics._1_threadStart;
 class Runner extends Thread {
 	 
     @Override

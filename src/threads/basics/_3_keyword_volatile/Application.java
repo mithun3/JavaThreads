@@ -1,4 +1,4 @@
-package threads.basics.keyword_volatile;
+package threads.basics._3_keyword_volatile;
 import java.util.Scanner;
 
 class Processor extends Thread {

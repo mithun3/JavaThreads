@@ -1,4 +1,4 @@
-package threads.basics.lockObjects;
+package threads.basics._4_lockObjects;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

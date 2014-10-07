@@ -1,4 +1,4 @@
-package threads.basics.keyword_synchronized;
+package threads.basics._2_keyword_synchronized;
 import java.util.Scanner;
 
 public class Worker {
